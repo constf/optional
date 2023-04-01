@@ -1,0 +1,21 @@
+# ninja log v5
+1	803	7019658948896849	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+805	1097	7019658951821196	variadic_optional.exe	c3c538a3c743a5c2
+3	729	7019660394581806	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+729	913	7019660396403819	variadic_optional.exe	c3c538a3c743a5c2
+4	683	7019662166397498	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+684	851	7019662168068348	variadic_optional.exe	c3c538a3c743a5c2
+4	666	7019663436975061	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+667	848	7019663438771935	variadic_optional.exe	c3c538a3c743a5c2
+3	667	7019665493546225	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+668	843	7019665495296185	variadic_optional.exe	c3c538a3c743a5c2
+6	719	7019665742405478	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+719	878	7019665743993895	variadic_optional.exe	c3c538a3c743a5c2
+4	668	7019666856040819	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+668	831	7019666857653561	variadic_optional.exe	c3c538a3c743a5c2
+4	697	7019667788195414	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+697	866	7019667789866357	variadic_optional.exe	c3c538a3c743a5c2
+5	783	7020351631179406	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+784	1233	7020351635721094	variadic_optional.exe	c3c538a3c743a5c2
+4	968	7020352130311891	CMakeFiles/variadic_optional.dir/main.cpp.obj	7fcc75147f28108a
+969	1186	7020352132475943	variadic_optional.exe	c3c538a3c743a5c2

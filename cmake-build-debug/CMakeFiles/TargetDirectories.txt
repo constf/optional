@@ -1,0 +1,3 @@
+C:/Users/Konstantin/CPP projects/variadic_optional/cmake-build-debug/CMakeFiles/variadic_optional.dir
+C:/Users/Konstantin/CPP projects/variadic_optional/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Konstantin/CPP projects/variadic_optional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
